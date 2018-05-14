@@ -1,7 +1,7 @@
 <template>
   <v-ons-page>
     <custom-toolbar :back-label="'Page 1'">Page 2</custom-toolbar>
-    <p style="text-align: center">This is the second page</p>
+    <p style="text-align: center">これは2番目のページです</p>
   </v-ons-page>
 </template>
 
